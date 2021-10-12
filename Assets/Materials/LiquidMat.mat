@@ -47,6 +47,8 @@ Material:
     - _WobbleX: 0
     - _WobbleZ: 0
     - _WobbleZ_1: 0.98
+    - _XRotation: 0
+    - _ZRotation: 0
     m_Colors:
     - Color_0e75f97a84d647529345dc90f932b4dd: {r: 1, g: 1, b: 1, a: 0}
     - Color_3f1a5c3288d84e75bfc69648a895ea9c: {r: 0, g: 2.1960785, b: 0.47140953, a: 0}

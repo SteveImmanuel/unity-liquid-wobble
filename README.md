@@ -12,4 +12,4 @@ Implemented using Unity 2020.3.4f1.
 </div>
 <br>
 
-Checkout full tutorial and detailed explanations <a href=https://hackmd.io/WhMhLb1MRLSkHqxF1tYBGA>here</a>.
+Checkout full tutorial and detailed explanations <a href=https://steveimm.id/posts/liquid-wobble/>here</a>.
